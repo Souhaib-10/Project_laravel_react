@@ -1,0 +1,10 @@
+/* Custom CSS to style nav-links on hover and when active */
+.nav-link:hover {
+    
+    border-bottom: 1px solid #007bff;
+  }
+  
+.nav-link.active {
+    text-decoration:underline;
+    background:#933C53;
+      }

@@ -1,0 +1,3 @@
+[submodule "front_end_crud"]
+	path = front_end_crud
+	url = https://github.com/Souhaib-10/front_end_crud.git

@@ -1,0 +1,3 @@
+[submodule "front_end_crud"]
+    path = front_end_crud
+    url = https://github.com/your-username/front_end_crud.git
